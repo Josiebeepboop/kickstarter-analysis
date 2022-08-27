@@ -11,6 +11,8 @@ The spreadsheet used: [Kickstarter challenge](data-1-1-3-StarterBook.xlsx)
 ---
 ### Analysis of Outcomes Based on Launch Date
 
+Using
+
 ![Outcomes based on Launch dates](Resources/Theater-Outcomes-vs-Launch.png)
 ---
 ### Analysis of Outcomes Based on Goals
@@ -36,5 +38,5 @@ It should be noted that Outcomes based Launch date encompasses different types o
 
 - What are some other possible tables and/or graphs that we could create?
 
-
+It would be interesting to see the outcomes based on the country and/or the year they were launched in. It would also be useful to know the number of backers and how much they pledged for successful campaigns vs failed campaigns.
 ---
