@@ -4,7 +4,7 @@
 
 ---
 ### Purpose
-Determine how different campaigns fare in relation to their launch dates and their funding goals.
+To determine how different campaigns fare in relation to their launch dates and their funding goals.
 ---
 ## Analysis and Challenges
 
@@ -15,6 +15,7 @@ Determine how different campaigns fare in relation to their launch dates and the
 ---
 ### Analysis of Outcomes Based on Goals
 
+![Outcomes based on Goals](kickstarter-analysis/Resources/Outcomes-vs-Goals.png)
 ---
 ### Challenges and Difficulties Encountered
 
