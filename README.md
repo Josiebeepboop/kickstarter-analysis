@@ -23,7 +23,7 @@ To determine how different campaigns fare in relation to their launch dates and 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
+The 
 
 - What can you conclude about the Outcomes based on Goals?
 
