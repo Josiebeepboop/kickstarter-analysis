@@ -24,6 +24,7 @@ To determine how different campaigns fare in relation to their launch dates and 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
