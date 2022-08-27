@@ -39,4 +39,5 @@ It should be noted that Outcomes based Launch date encompasses different types o
 - What are some other possible tables and/or graphs that we could create?
 
 It would be interesting to see the outcomes based on the country and/or the year they were launched in. It would also be useful to know the number of backers and how much they pledged for successful campaigns vs failed campaigns.
+
 ---
