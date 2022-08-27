@@ -11,7 +11,7 @@ Determine how different campaigns fare in relation to their launch dates and the
 ---
 ### Analysis of Outcomes Based on Launch Date
 
-![Outcomes based on Launch dates](/resources/Theater-Outcomes-vs-Launch.png)
+![Outcomes based on Launch dates](kickstarter-analysis/resources/Theater-Outcomes-vs-Launch.png)
 ---
 ### Analysis of Outcomes Based on Goals
 
