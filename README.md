@@ -7,15 +7,15 @@
 To determine how different campaigns fare in relation to their launch dates and their funding goals.
 ---
 ## Analysis and Challenges
-
+[Kickstarter challenge](Theater-Outcomes-vs-Launch.png)
 ---
 ### Analysis of Outcomes Based on Launch Date
 
-![Outcomes based on Launch dates](kickstarter-analysis/Resources/Theater-Outcomes-vs-Launch.png)
+![Outcomes based on Launch dates](Resources/Theater-Outcomes-vs-Launch.png)
 ---
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes based on Goals](kickstarter-analysis/Resources/Outcomes-vs-Goals.png)
+![Outcomes based on Goals](Resources/Outcomes-vs-Goals.png)
 ---
 ### Challenges and Difficulties Encountered
 
