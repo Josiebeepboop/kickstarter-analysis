@@ -28,8 +28,13 @@ The summer months (May, June, July) seem to be the best months to conduct a camp
 
 - What can you conclude about the Outcomes based on Goals?
 
+The data suggests that campaigns with goals between 25000 and 34999 have the most successful outcomes.
+
 - What are some limitations of this dataset?
 
+It should be noted that Outcomes based Launch date encompasses different types of theater endpoints such as musicals, plays, and spaces, whereas the Outcomes based on Goals chart only takes into account plays. It is also worth noting that this data does not provide us with any information on the length of the campaign, the number of backers, the amount pledged or even the country in which the campaign occurred. These different criteria could potentially provide slightly different evaluations.
+
 - What are some other possible tables and/or graphs that we could create?
+
 
 ---
