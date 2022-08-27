@@ -7,7 +7,7 @@
 To determine how different campaigns fare in relation to their launch dates and their funding goals.
 ---
 ## Analysis and Challenges
-[Kickstarter challenge](Theater-Outcomes-vs-Launch.png)
+[Kickstarter challenge](data-1-1-3-StarterBook.xlsx)
 ---
 ### Analysis of Outcomes Based on Launch Date
 
