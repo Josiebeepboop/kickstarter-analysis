@@ -7,7 +7,7 @@ The client, Louise, is an up-and-coming playwright who crowdfunded her latest pl
 Using data from previous crowdfunding campaign, we need to determine how different campaigns fare in relation to their launch dates and their funding goals. This information will subsequently be used to help plan the next crowdfunding campaign.
 ---
 ## Analysis and Challenges
-The spreadsheet used: [Kickstarter challenge](Kickstarter-Challenge.xlsx)
+The spreadsheet used: [Kickstarter challenge](Kickstarter_Challenge.xlsx)
 ---
 ### Analysis of Outcomes Based on Launch Date
 
