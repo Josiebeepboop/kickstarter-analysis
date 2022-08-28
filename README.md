@@ -17,11 +17,13 @@ To determine whether the launch date has an effect on the campaign's success, a 
 ---
 ### Analysis of Outcomes Based on Goals
 
-To determine if the goal of a campaign has an impact on its outcome, we again used the previously collected kickstarter data. In this case, we categorized the goals in buckets ( and filtered the outcome of each play based on these buckets.
+To determine if the goal of a campaign has an impact on its outcome, we again used the previously collected kickstarter data. In this case, we categorized the goals in buckets (1000 to 50000 in increments of 5000) and filtered the outcome of each play based on these buckets. We then calculated the percentage of the outcome based on the total number of projects in order to standardize the data.
 
 ![Outcomes based on Goals](Resources/Outcomes-vs-Goals.png)
 ---
 ### Challenges and Difficulties Encountered
+
+The first difficulty was extracting the month from the date created conversion column in the Theater Outcomes by Launch date spreadsheet. Once the year was removed from the Rows field, I was able to show the month of launch in the pivot table. The second difficulty was selecting the appropriate columns and assigning the appropriate criteria to them, so that the data could be filtered correctly in the Outcomes Based on Goals spreadsheet. I needed to freeze the columns by using the <$> symbol to calculate the correct number of outcomes for each goal bucket.
 
 ---
 ## Results
@@ -36,10 +38,10 @@ The data suggests that campaigns with goals between 35000 and 44999 have the mos
 
 - What are some limitations of this dataset?
 
-It should be noted that Outcomes based Launch date encompasses different types of theater endpoints such as musicals, plays, and spaces, whereas the Outcomes based on Goals chart only takes into account plays. The client should take caution when comparing these charts. It is also worth noting that this data does not provide us with any information on the length of the campaign, the number of backers, the amount pledged or even the country in which the campaign occurred. These different criteria could potentially provide slightly different evaluations.
+It should be noted that Outcomes based Launch date encompasses different types of theater endpoints such as musicals, plays, and spaces, whereas the Outcomes based on Goals chart only takes into account plays. The client should take caution when comparing these charts with each other. In addition, the Outcomes Based on Goals chart does not standardize the goals to one type of currency. We would need to create this same chart by country to provide a better window into the different outcomes. Finally, it is worth noting that these charts do not provide us with any information on the length of the campaign, the number of backers, or the amount pledged. These different criteria could potentially provide slightly different evaluations. 
 
 - What are some other possible tables and/or graphs that we could create?
 
-It would be interesting to see the outcomes based on the country and/or the year they were launched in. It would also be useful to know the number of backers and how much they pledged for successful campaigns vs failed campaigns. We could also create box plots to determine whether there were any potential outliers in the dataset or a histogram to assess what kind of distribution this data possesses.
+It would be interesting to see the outcomes based on the country using perhaps a bar chart. It would also be useful to know the number of backers and how much they pledged for successful campaigns vs failed campaigns. We could also compare the box plots of goals and pledged to determine any potential outliers and if there are any differences between these two criteria.
 
 ---
