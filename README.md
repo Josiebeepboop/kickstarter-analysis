@@ -11,11 +11,13 @@ The spreadsheet used: [Kickstarter challenge](data-1-1-3-StarterBook.xlsx)
 ---
 ### Analysis of Outcomes Based on Launch Date
 
-The period of the campa
+The determine whether the launch date has an effect on the campaign's success, a pivot table was created from the source data. The launch date was modified to show the month the campaign was created. In addition, live fundraisers were filtered so that only successful, failed, or canceled outcomes could appear. A line chart was used to visually trend the different outcomes over the months of the year.
 
 ![Outcomes based on Launch dates](Resources/Theater-Outcomes-vs-Launch.png)
 ---
 ### Analysis of Outcomes Based on Goals
+
+
 
 ![Outcomes based on Goals](Resources/Outcomes-vs-Goals.png)
 ---
