@@ -17,7 +17,7 @@ The determine whether the launch date has an effect on the campaign's success, a
 ---
 ### Analysis of Outcomes Based on Goals
 
-
+To determine if the goal has an impact on the campaign's outcome, we again used the previously collected kickstarter data. In this case, we created bucket
 
 ![Outcomes based on Goals](Resources/Outcomes-vs-Goals.png)
 ---
@@ -40,6 +40,6 @@ It should be noted that Outcomes based Launch date encompasses different types o
 
 - What are some other possible tables and/or graphs that we could create?
 
-It would be interesting to see the outcomes based on the country and/or the year they were launched in. It would also be useful to know the number of backers and how much they pledged for successful campaigns vs failed campaigns.
+It would be interesting to see the outcomes based on the country and/or the year they were launched in. It would also be useful to know the number of backers and how much they pledged for successful campaigns vs failed campaigns. We could also create box plots to determine whether there were any potential outliers in the dataset.  
 
 ---
