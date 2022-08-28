@@ -17,7 +17,7 @@ To determine whether the launch date has an effect on the campaign's success, a 
 ---
 ### Analysis of Outcomes Based on Goals
 
-To determine if the goal of a campaign has an impact on its outcome, we again used the previously collected kickstarter data. In this case, we categorized the goals in buckets (1000 to 50000 in increments of 5000) and filtered the outcome of each play based on these buckets. We then calculated the percentage of the outcome based on the total number of projects in order to standardize the data.
+To determine if the goal of a campaign has an impact on its outcome, we again used the previously collected kickstarter data. In this case, we categorized the goals in buckets (1000 to 50000 in increments of 5000) and filtered the outcome of each play based on these buckets. The percentage of the outcome based on the total number of projects was calculated in order to standardize the data. The line chart created shows how different goals affect the outcome of the campaign.
 
 ![Outcomes based on Goals](Resources/Outcomes-vs-Goals.png)
 ---
