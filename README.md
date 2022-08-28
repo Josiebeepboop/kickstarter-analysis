@@ -11,7 +11,7 @@ The spreadsheet used: [Kickstarter challenge](data-1-1-3-StarterBook.xlsx)
 ---
 ### Analysis of Outcomes Based on Launch Date
 
-Using
+The period of the campa
 
 ![Outcomes based on Launch dates](Resources/Theater-Outcomes-vs-Launch.png)
 ---
