@@ -42,6 +42,6 @@ It should be noted that Outcomes based Launch date encompasses different types o
 
 - What are some other possible tables and/or graphs that we could create?
 
-It would be interesting to see the outcomes based on the country using perhaps a bar chart. It would also be useful to know the number of backers and how much they pledged for successful campaigns vs failed campaigns. We could also compare the box plots of goals and pledged to determine any potential outliers and if there are any differences between these two criteria.
+It would be interesting to see the outcomes based on the country using perhaps a bar chart. It would also be useful to know the number of backers and how much they pledged for successful campaigns vs failed campaigns. We could also compare the box plots of goals and pledged amounts to determine any potential outliers and if there are any differences between these two criteria.
 
 ---
