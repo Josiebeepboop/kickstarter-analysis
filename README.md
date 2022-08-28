@@ -1,7 +1,7 @@
 # kickstarter-analysis
 ---
 ## Overview of Project
-The client, Louise, is an up-and-coming playwright who crowdfunded her latest play, "Fever". Using data from previous crowdfunding campaigns, she came very close to meeting her funding goal. She would like to finetune the data to be able to conduct an even more successful crowdfunding campaign for her next play.
+The client, Louise, is an up-and-coming playwright who crowdfunded her latest play, "Fever". Using data from previous crowdfunding campaigns, she came very close to meeting her funding goal. She would like to use the same data to finetune her approach and conduct an even more successful crowdfunding campaign for her next play.
 ---
 ### Purpose
 Using data from previous crowdfunding campaign, we need to determine how different campaigns fare in relation to their launch dates and their funding goals. This information will subsequently be used to help plan the next crowdfunding campaign.
