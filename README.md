@@ -17,7 +17,7 @@ The determine whether the launch date has an effect on the campaign's success, a
 ---
 ### Analysis of Outcomes Based on Goals
 
-To determine if the goal has an impact on the campaign's outcome, we again used the previously collected kickstarter data. In this case, we created bucket
+To determine if the goal of a campaign has an impact on its outcome, we again used the previously collected kickstarter data. In this case, we categorized the goals in buckets ( and filtered 
 
 ![Outcomes based on Goals](Resources/Outcomes-vs-Goals.png)
 ---
